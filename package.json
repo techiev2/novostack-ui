@@ -1,0 +1,12 @@
+{
+  "name": "novostack-ui",
+  "version": "1.0.0",
+  "description": "UI components library for Novostack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sriram Velamur",
+  "license": "",
+  "type": "module"
+}
